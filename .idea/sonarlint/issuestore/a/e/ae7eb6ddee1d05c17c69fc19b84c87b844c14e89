@@ -1,6 +1,9 @@
 
-7
-java:S1700"Rename field "ApiKey"(Î­µ’üÿÿÿÿ8çÁ½ò‘2
+2
+java:S1700"Rename field "ApiKey"(¢ÜŒœ8çÁ½ò‘2
 7
 java:S1220""Move this file to a named package.8èÁ½ò‘2
-r	java:S116"QRename this field "ApiKey" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î­µ’üÿÿÿÿ8éÁ½ò‘2
+n
+java:S3008"QRename this field "ApiKey" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÜŒœ8†ò«Ã’2
+W
+java:S1118":Add a private constructor to hide the implicit public one.(º¹”8“¬Ã’2

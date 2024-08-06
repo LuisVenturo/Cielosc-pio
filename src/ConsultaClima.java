@@ -13,7 +13,7 @@ import com.google.gson.Gson;
 
 public class ConsultaClima extends ApiKey {
        public Clima buscaClima(String ciudad){
-            String APIKEY = getApiKey();
+            String APIKEY = ApiKey;
 
         try {
             String direccion = "https://api.openweathermap.org/data/2.5/weather?q="+
