@@ -1,3 +1,4 @@
+import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
@@ -53,9 +54,10 @@ public class Principal {
                 break;
             }
 
-            Date fecha = new Date();
+            Date fechaActual = new Date();
+            SimpleDateFormat formatoFecha = new SimpleDateFormat("dd/MM/yyyy");
+            SimpleDateFormat formatoHora = new SimpleDateFormat("HH:mm");
             ConsultaClima consulta = new ConsultaClima();
-
             Clima clima = consulta.buscaClima(ciudad);
             if (clima.weather.size() == 0){
                 break;
@@ -69,8 +71,8 @@ public class Principal {
 
             System.out.println("Respuesta"+
                     "\nCiudad: "+ciudad+
-                    "\nFecha: "+fecha.getDate()+
-                    "\nHorario: "+fecha.getHours()+
+                    "\nFecha: "+ formatoFecha.format(fechaActual)+
+                    "\nHorario: "+ formatoHora.format(fechaActual)+
                     "\n\nTemperatura actual: "+temperatura+
                     "\nCondicion climática: "+condicionClimatica+
                     "\n\nTemperatura minima: "+temperaturaMinima+

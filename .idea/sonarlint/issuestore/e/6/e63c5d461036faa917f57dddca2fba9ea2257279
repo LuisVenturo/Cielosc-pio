@@ -1,36 +1,31 @@
 
 „
-java:S1192"gDefine a constant instead of duplicating this literal "--------------------------------------" 3 times.(êç‹±8ù¬¸á‡2
-z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ8Á‚Ãá‡2
+java:S1192"gDefine a constant instead of duplicating this literal "--------------------------------------" 3 times.(êç‹±8äÊ‚Å’2
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ8åÊ‚Å’2
 7
-java:S1220""Move this file to a named package.8ü¬¸á‡2
+java:S1220""Move this file to a named package.8æÊ‚Å’2
 o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8¡¯¸á‡2
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8êÊ‚Å’2
 W
-java:S18544";Remove this useless assignment to local variable "bandera".(ß÷¡b8¢¯¸á‡2
+java:S18545";Remove this useless assignment to local variable "bandera".(ß÷¡b8ëÊ‚Å’2
 =
-java:S1659" Declare "op" on a separate line.(ğâğì8¢¯¸á‡2
+java:S1659	" Declare "op" on a separate line.(ğâğì8ìÊ‚Å’2
 k
-java:S1659	"NDeclare "temperaturaMinima" and all following declarations on a separate line.(“ÜğÓ8¢¯¸á‡2
-q
 java:S1659
-"ODeclare "condicionClimatica" and all following declarations on a separate line.(œ‘‹‚ıÿÿÿÿ8£¯¸á‡2
+"NDeclare "temperaturaMinima" and all following declarations on a separate line.(“ÜğÓ8ìÊ‚Å’2
+q
+java:S1659"ODeclare "condicionClimatica" and all following declarations on a separate line.(œ‘‹‚ıÿÿÿÿ8ìÊ‚Å’2
 T
-java:S1481
-"2Remove this unused "precipitacion" local variable.(œ‘‹‚ıÿÿÿÿ8¥¯¸á‡2
-G	java:S106"+Replace this use of System.out by a logger.(ã’ˆ8¥¯¸á‡2
-G	java:S106"+Replace this use of System.out by a logger.(êç‹±8¥¯¸á‡2
-G	java:S106"+Replace this use of System.out by a logger.(Îñë8¥¯¸á‡2
-L	java:S106"+Replace this use of System.out by a logger.(ñø¢¯ûÿÿÿÿ8¦¯¸á‡2
-G	java:S106"+Replace this use of System.out by a logger.(êç‹±8¦¯¸á‡2
-L	java:S106 "+Replace this use of System.out by a logger.(àŸ™ëşÿÿÿÿ8§¯¸á‡2
-G	java:S106!"+Replace this use of System.out by a logger.(êç‹±8§¯¸á‡2
-F	java:S1060"+Replace this use of System.out by a logger.(øİËQ8¨¯¸á‡2
-L	java:S1063"+Replace this use of System.out by a logger.(¢÷¯’şÿÿÿÿ8©¯¸á‡2
+java:S1481"2Remove this unused "precipitacion" local variable.(œ‘‹‚ıÿÿÿÿ8ïÊ‚Å’2
+G	java:S106"+Replace this use of System.out by a logger.(ã’ˆ8ğÊ‚Å’2
+G	java:S106"+Replace this use of System.out by a logger.(êç‹±8ğÊ‚Å’2
+G	java:S106"+Replace this use of System.out by a logger.(Îñë8ñÊ‚Å’2
+L	java:S106"+Replace this use of System.out by a logger.(ñø¢¯ûÿÿÿÿ8ñÊ‚Å’2
+G	java:S106 "+Replace this use of System.out by a logger.(êç‹±8óÊ‚Å’2
+L	java:S106!"+Replace this use of System.out by a logger.(àŸ™ëşÿÿÿÿ8óÊ‚Å’2
+G	java:S106""+Replace this use of System.out by a logger.(êç‹±8óÊ‚Å’2
+F	java:S1061"+Replace this use of System.out by a logger.(øİËQ8ôÊ‚Å’2
+L	java:S1064"+Replace this use of System.out by a logger.(¢÷¯’şÿÿÿÿ8õÊ‚Å’2
 [
-java:S1155<">Use isEmpty() to check whether the collection is empty or not.(ûÙö8ª¯¸á‡2
-L	java:S106F"+Replace this use of System.out by a logger.(Áí’Åúÿÿÿÿ8«¯¸á‡2
-Q
-java:S1874H"/Remove this use of "getDate"; it is deprecated.(ìîşûÿÿÿÿ8«¯¸á‡2
-R
-java:S1874I"0Remove this use of "getHours"; it is deprecated.(šƒ Úûÿÿÿÿ8«¯¸á‡2
+java:S1155>">Use isEmpty() to check whether the collection is empty or not.(ûÙö8÷Ê‚Å’2
+L	java:S106H"+Replace this use of System.out by a logger.(Áí’Åúÿÿÿÿ8ùÊ‚Å’2

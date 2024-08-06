@@ -35,11 +35,6 @@ public class ConsultaClima extends ApiKey {
 
             // Deserializar la respuesta JSON
             Clima apiResponse = new Gson().fromJson(response.body(), Clima.class);
-            System.out.println(response.body());
-
-            System.out.println("##########################");
-            System.out.println(new Gson().toJson(apiResponse));
-            System.out.println("#############################");
             return apiResponse;
 
         } catch (Exception e) {
