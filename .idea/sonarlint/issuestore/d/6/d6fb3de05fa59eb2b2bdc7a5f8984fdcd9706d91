@@ -1,0 +1,15 @@
+
+m
+java:S1104"PMake main a static final constant or non-public and provide accessors if needed.(Úò§­8×š”ã‡2
+p
+java:S1104"SMake weather a static final constant or non-public and provide accessors if needed.(ý“„½8Øš”ã‡2
+p
+java:S1104"TMake temp_min a static final constant or non-public and provide accessors if needed.(ªÖó?8Ùš”ã‡2
+q
+java:S1104"TMake temp_max a static final constant or non-public and provide accessors if needed.(Óƒ·ÿ8Ùš”ã‡2
+y
+java:S1104"WMake description a static final constant or non-public and provide accessors if needed.(¹ÿ†ðÿÿÿÿÿ8Ùš”ã‡2
+7
+java:S1220""Move this file to a named package.8Úš”ã‡2
+n	java:S116"SRename this field "temp_min" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÖó?8áš”ã‡2
+o	java:S116"SRename this field "temp_max" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óƒ·ÿ8áš”ã‡2

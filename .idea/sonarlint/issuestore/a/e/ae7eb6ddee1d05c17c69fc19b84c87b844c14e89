@@ -1,0 +1,6 @@
+
+7
+java:S1700"Rename field "ApiKey"(Î­µ’üÿÿÿÿ8çÁ½ò‘2
+7
+java:S1220""Move this file to a named package.8èÁ½ò‘2
+r	java:S116"QRename this field "ApiKey" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î­µ’üÿÿÿÿ8éÁ½ò‘2

@@ -1,0 +1,12 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óé´Î8äª¾2
+7
+java:S1220""Move this file to a named package.8Ÿäª¾2
+{
+java:S2142-"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8¾äª¾2
+L	java:S106&"+Replace this use of System.out by a logger.(€¢£Áÿÿÿÿÿ8Ëäª¾2
+G	java:S106("+Replace this use of System.out by a logger.(Áçá8Ìäª¾2
+G	java:S106)"+Replace this use of System.out by a logger.(ÈËäå8Íäª¾2
+L	java:S106*"+Replace this use of System.out by a logger.(¯’¤ışÿÿÿÿ8Îäª¾2
+G	java:S1060"+Replace this use of System.out by a logger.(éÔŠÎ8Îäª¾2
+X	java:S125."<This block of commented-out lines of code should be removed.(û««¡8Îäª¾2
