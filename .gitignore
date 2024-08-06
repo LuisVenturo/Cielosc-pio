@@ -2,7 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-/src/ApiKey
+/src/ApiKey.java
 
 ### Eclipse ###
 .apt_generated
