@@ -1,19 +1,16 @@
-import java.io.IOException;
 import java.net.URI;
 import java.net.URLEncoder;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
-import java.sql.Time;
 import java.time.Duration;
 import java.util.ArrayList;
-import java.util.concurrent.TimeUnit;
 
 import com.google.gson.Gson;
 
-public class ConsultaClima extends ApiKey {
+public class ConsultaClima {
        public Clima buscaClima(String ciudad){
-            String APIKEY = ApiKey;
+            String APIKEY = ApiKey.API_KEY;
 
         try {
             String direccion = "https://api.openweathermap.org/data/2.5/weather?q="+
